@@ -1,0 +1,11 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+  </head>
+  <body>
+    <script>
+      location.assign("https://www.example.com")
+    </script>
+    <h1>Hi</h1> 
+  </body>
+</html>
